@@ -1,0 +1,22 @@
+.content img {
+  float: right;
+  vertical-align: middle;
+  top: 100px;
+  left: 20px;
+  position: absolute;
+}
+
+div[ref="one/01_slide/1"] h1 {
+  position: absolute;
+  top: 110px;
+  left: 330px;
+}
+
+div[ref="one/01_slide/5"] pre {
+  font-size: 210%;
+}
+
+div[ref="one/01_slide/6"] pre {
+  font-size: 220%;
+}
+
